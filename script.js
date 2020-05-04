@@ -76,7 +76,7 @@ function moveCamera() {
 
 function setSceneHeight() {
     // ADJUST THE NUMBER BELOW TO THE COUNT OF THE DIVS.
-  const numberOfItems = 33 ; // films.length; // Or number of items you have in `.scene3D`
+  const numberOfItems = 100 ; // films.length; // Or number of items you have in `.scene3D`
   const itemZ = parseFloat(
   getComputedStyle(document.documentElement).getPropertyValue("--itemZ"));
 
