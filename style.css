@@ -344,7 +344,7 @@ h1 .logo {
 
 h4 {
     font-family: "Helvetica";
-  font-weight: 200;
+  font-weight: lighter;
   font-size: 3000%;
   color: #c3412f;
   margin: 0;
@@ -353,12 +353,12 @@ h4 {
   text-align: left;
 min-width: 3000px;
   left: -600px;
-  top: -200px;
+  top: 100px;
 }
 
 h6 {
     font-family: "Helvetica";
-  font-weight: 200;
+  font-weight: lighter;
   font-size: 3000%;
   color: #c3412f;
   margin: 0;
@@ -367,7 +367,7 @@ h6 {
   text-align: left;
 min-width: 3000px;
   left: 200px;
-  top: -200px;
+  top: 100px;
 }
 
 
