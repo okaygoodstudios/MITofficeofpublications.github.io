@@ -52,78 +52,103 @@
 .viewport .scene3D-container .scene3D > div:nth-child(0) {
   transform: translate3D(-16%, 9%, calc(var(--itemZ) * var(--cameraSpeed) * 0 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(1) {
   transform: translate3D(7%, 20%, calc(var(--itemZ) * var(--cameraSpeed) * 1 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(2) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 2 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(3) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 3 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(4) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 4 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(5) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 5 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(6) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 6 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(7) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 7 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(8) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 8 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(9) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 9 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(10) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 10 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(11) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 11 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(12) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 12 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(13) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 13 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(14) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 14 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(15) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 15 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(16) {
   transform: translate3D(-20%,-15%, calc(var(--itemZ) * var(--cameraSpeed) * 16 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(17) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 17 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(18) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 18 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(19) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 19 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(20) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 20 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(21) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 21 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(22) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 22 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(23) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 23 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(24) {
   transform: translate3D(-20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 24 * -1px));
 }
+
 .viewport .scene3D-container .scene3D > div:nth-child(25) {
   transform: translate3D(20%, -15%, calc(var(--itemZ) * var(--cameraSpeed) * 25 * -1px));
 }
@@ -320,8 +345,8 @@ h1 .logo {
   display: block;
   margin: 0 auto;
   max-width: 150px;
-    
-
+}
+ 
 
 .link {
   color: white;
@@ -340,7 +365,7 @@ h1 .logo {
   margin-top: 0;
   font-family: "Playfair Display SC", serif;
   font-size: 1.5rem;
-    }}
+    }
 
 h4 {
     font-family: "Helvetica";
@@ -365,41 +390,13 @@ h6 {
   position: absolute;
   bottom:  2 rem ;
   text-align: left;
-min-width: 3000px;
+  min-width: 3000px;
   left: 200px;
   top: 100px;
 }
 
 
 
-
-#intro type{
-    
-
-  
-}
-
-#cody-and-christian-in-the-sky 
- {}
-#fireflies 
-{
-     
-}
-
-#3rd poster
-{}
-
-#4th poster
-
-#5th poster
-
-#6th poster
-
-#7th poster
-
-#8th poster
-    
-#1960 
 
     
 
