@@ -50,7 +50,7 @@
   right: 0;
 }
 .viewport .scene3D-container .scene3D > div:nth-child(0) {
-  transform: translate3D(-16%, 9%, calc(var(--itemZ) * var(--cameraSpeed) * 0 * -1px));
+  transform: translate3D(-16%, %, calc(var(--itemZ) * var(--cameraSpeed) * 0 * -1px));
 }
 
 .viewport .scene3D-container .scene3D > div:nth-child(1) {
@@ -377,8 +377,8 @@ h4 {
   bottom:  2 rem ;
   text-align: left;
 min-width: 3000px;
-  left: -600px;
-  top: 100px;
+  left: 120px;
+  top: -60px;
 }
 
 h6 {
@@ -391,8 +391,36 @@ h6 {
   bottom:  2 rem ;
   text-align: left;
   min-width: 3000px;
-  left: 200px;
+  left: -1200px;
   top: 100px;
+}
+
+h7 {
+    font-family: "Helvetica";
+  font-weight: lighter;
+  font-size: 3000%;
+  color: #c3412f;
+  margin: 0;
+  position: absolute;
+  bottom:  2 rem ;
+  text-align: left;
+  min-width: 3000px;
+  left:120px;
+  top: -60px;
+}
+
+h9 {
+    font-family: "Helvetica";
+  font-weight: lighter;
+  font-size: 3000%;
+  color: #c3412f;
+  margin: 0;
+  position: absolute;
+  bottom:  2 rem ;
+  text-align: left;
+  min-width: 3000px;
+  left:120px;
+  top: -60px;
 }
 
 
