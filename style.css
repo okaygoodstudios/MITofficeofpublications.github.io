@@ -378,7 +378,7 @@ h4 {
   text-align: left;
 min-width: 3000px;
   left: 20px;
-  top: -60px;
+  top: 20spx;
 }
 
 h6 {
@@ -406,7 +406,7 @@ h7 {
   text-align: left;
   min-width: 3000px;
   left:80px;
-  top: -60px;
+  top: 20px;
 }
 
 h9 {
@@ -420,7 +420,7 @@ h9 {
   text-align: left;
   min-width: 3000px;
   left:180px;
-  top: -60px;
+  top: -120px;
 }
 
 
